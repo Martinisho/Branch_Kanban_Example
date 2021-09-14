@@ -1,2 +1,1 @@
-aqui abra un programa
-
+code ready
